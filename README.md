@@ -1,4 +1,4 @@
-CRUD
+CRUD [Ознакомиться с проектом](https://answer-0885.github.io/React_react-router_9-2_crud/)
 ===
 
 Вам необходимо реализовать CRUD при работе с HTTP с использованием Router.
