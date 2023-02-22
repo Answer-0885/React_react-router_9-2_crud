@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.card {
+  position: relative;
+  width: 30rem;
+  margin: 1rem auto;
+  padding: .5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: .1rem solid gray;
+  border-radius: .5rem;
+  overflow-wrap: normal;
+  border-radius: .5rem;
+  background-color: rgb(9, 197, 204);
+  padding: .5rem .7rem;
+  font-size: 24px;
+}
+
+.card-content {
+  flex: 1 1 auto;
+}
+
+.card-created {
+  font-size: small;
+}
+
+.card-close {
+  position: absolute;
+  top: -.7rem;
+  right: -.7rem;
+  height: 1.6rem;
+  width: 1.6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: .1rem solid gray;
+  border-radius: .7rem;
+  background-color: white;
+  cursor: pointer;
+  user-select: none;
+  font-size: 20px;
+  color: red;
+}
